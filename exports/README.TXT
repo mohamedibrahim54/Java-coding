@@ -1,0 +1,4 @@
+Parsing Export Data:
+The CSV file exportdata.csv has information on the export products of countries; In particular it has three column headers labeled Country, Exports, and Value (dollars). The Country column represents a country from the world, the Exports column is a list of export items for a country, and the Value (dollars) column is the dollar amount in millions of their exports in the format of a dollar sign, followed by an integer number with a comma separator every three digits from the right. An example of such a value might be “$400,000,000”.
+
+The CSV file exports_small.csv is a smaller version of the file above with the same columns that you may find helpful in testing program.
