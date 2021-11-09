@@ -3,7 +3,7 @@ set of Java assigmnments and Programming Exercise
 
 ## BlueJ Projects:
 * #### exports: 
-      Parsing Export Data
+      Parsing Export products of countries
 * #### babyNamesTotals:
     Analyzing Baby Names
     Print out total number of babies born, as well as for each gender, in a given CSV file of baby name data
