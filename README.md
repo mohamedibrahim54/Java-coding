@@ -19,3 +19,5 @@ set of Java assigmnments and Programming Exercise
     a program to find out how many times each codon occurs in a strand of DNA based on reading frames.
     A strand of DNA is made up of the symbols C, G, T, and A. A codon is three consecutive symbols in a strand of DNA such as ATT or TCC.
     A reading frame is a way of dividing a strand of DNA into consecutive codons.
+* #### Words in Files:
+    program to determine which words occur in the greatest number of files, and for each word, which files they occur in.
