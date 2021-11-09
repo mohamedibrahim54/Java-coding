@@ -21,3 +21,5 @@ set of Java assigmnments and Programming Exercise
     A reading frame is a way of dividing a strand of DNA into consecutive codons.
 * #### Words in Files:
     program to determine which words occur in the greatest number of files, and for each word, which files they occur in.
+* #### CharactersInPlay:
+    determine the characters in one of Shakespeare’s plays.
